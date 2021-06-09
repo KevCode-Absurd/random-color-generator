@@ -3,10 +3,6 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
-.header {
-  margin-left: 20px;
-}
-
 button {
   font-family: "Courier New", Courier, monospace;
   width: 120px;
@@ -17,7 +13,6 @@ button {
   color: white;
   border-radius: 1%;
   border-width: 3px;
-  margin-left: 20px;
   font-size: 1.25em;
   transition: ease-in-out, 350ms;
   font-weight: bold;
