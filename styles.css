@@ -1,0 +1,30 @@
+body {
+  background-color: ivory;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.header {
+  margin-left: 20px;
+}
+
+button {
+  font-family: "Courier New", Courier, monospace;
+  width: 120px;
+  height: 40px;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  background-color: rgb(3, 180, 180);
+  color: white;
+  border-radius: 1%;
+  border-width: 3px;
+  margin-left: 20px;
+  font-size: 1.25em;
+  transition: ease-in-out, 350ms;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: rgb(153, 219, 21);
+  color: black;
+  border-color: ivory;
+}
